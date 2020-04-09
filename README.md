@@ -5,3 +5,6 @@
 # pull the information and what it will look like. 
 
 ![](images/concert-this.jpg)
+![](images/do-waht-it-says.jpg)
+![](images/movie-this.jpg)
+![](images/spotify-this-song.jpg)
